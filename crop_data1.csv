@@ -1,0 +1,21 @@
+soilType,season,water,cropName,fertilizer,duration,confidence,yieldPerAcre
+Black,Kharif,High,Rice,Urea,120 Days,96,4.5
+Black,Kharif,Medium,Cotton,NPK,180 Days,92,3.8
+Black,Rabi,Low,Wheat,DAP,110 Days,90,3.2
+Black,Rabi,Medium,Gram,Organic Compost,95 Days,89,2.6
+Red,Kharif,High,Rice,Urea,120 Days,95,4.3
+Red,Kharif,Medium,Groundnut,Compost,100 Days,91,2.8
+Red,Rabi,Low,Millets,Organic Compost,90 Days,88,2.0
+Red,Rabi,Medium,Gram,DAP,95 Days,87,2.5
+Sandy,Kharif,Low,Groundnut,Compost,100 Days,90,2.7
+Sandy,Kharif,Medium,Maize,NPK,110 Days,91,3.4
+Sandy,Rabi,Low,Millets,Organic Compost,90 Days,86,2.1
+Sandy,Rabi,Medium,Mustard,DAP,105 Days,88,2.4
+Clay,Kharif,High,Rice,Urea,120 Days,97,4.8
+Clay,Kharif,Medium,Sugarcane,NPK,300 Days,94,40.0
+Clay,Rabi,Low,Wheat,DAP,115 Days,90,3.5
+Clay,Rabi,Medium,Barley,Urea,100 Days,88,3.0
+Loamy,Kharif,High,Rice,Urea,120 Days,96,4.6
+Loamy,Kharif,Medium,Cotton,NPK,180 Days,93,3.9
+Loamy,Rabi,Low,Wheat,DAP,110 Days,91,3.4
+Loamy,Rabi,Medium,Gram,Organic Compost,95 Days,90,2.7

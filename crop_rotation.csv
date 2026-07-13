@@ -1,0 +1,19 @@
+PreviousCrop,NextCrop,Reason
+Rice,Gram,Restores nitrogen in soil
+Rice,Mustard,Improves soil fertility
+Rice,Wheat,Good seasonal rotation
+Cotton,Groundnut,Adds nitrogen naturally
+Cotton,Wheat,Balances nutrient usage
+Groundnut,Rice,Maintains soil nutrients
+Groundnut,Cotton,Improves soil health
+Wheat,Maize,Reduces pest cycle
+Wheat,Rice,Efficient land utilization
+Maize,Gram,Improves soil fertility
+Maize,Groundnut,Reduces disease risk
+Sugarcane,Gram,Replenishes nutrients
+Sugarcane,Wheat,Improves productivity
+Millets,Groundnut,Enhances nitrogen content
+Mustard,Rice,Suitable seasonal rotation
+Barley,Cotton,Balanced nutrient utilization
+Gram,Rice,High productivity rotation
+Gram,Cotton,Improves soil structure
